@@ -55,9 +55,7 @@ Estudiante avanzado de **Ingeniería en Computación** orientado al desarrollo d
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuSavenia&theme=tokyonight" width="100%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuSavenia&layout=donut&theme=tokyonight&hide_border=true&hide=html,css" width="100%" />
-</p>
+
 
 ---
 
